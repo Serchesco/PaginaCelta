@@ -1,0 +1,16 @@
+.logo {
+  /*background-color: greenyellow;*/
+  width: 100px;
+  height: auto;
+}
+
+.trisquel {
+  background-color: greenyellow;
+}
+
+.principal {
+  border-style: dotted;
+  border-color: hotpink;
+  border-width: 1vh;
+  border-radius: 50%;
+}
