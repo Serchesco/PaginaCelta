@@ -6,10 +6,11 @@
 
 .trisquel {
   background-color: greenyellow;
+  box-shadow: 15px 15px 15px #888888;
 }
 
 .principal {
-  border-style: dotted;
+  border-style: solid;
   border-color: hotpink;
   border-width: 1vh;
   border-radius: 50%;
